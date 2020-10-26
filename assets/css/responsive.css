@@ -1,0 +1,1167 @@
+@media(min-width: 1400px){
+	.profit-calculator {
+	    color: #fff;
+	    padding: 200px 0;
+	}
+
+	.profit-calculator-main {
+    padding: 0;
+	}
+
+}
+
+
+
+@media(min-width: 1200px){
+
+}
+
+
+
+@media(max-width: 1199px){
+	.banner-thumb-5 img {
+    width: 820px;
+    height: 100%;
+	}
+
+
+	.banner-shape-5 {
+    top: 0;
+	}
+	.banner-shape-5 img {
+    height: 100%;
+	}
+	.header-section .header-wrapper .menu {
+    margin-right: 100px;
+	}
+	.header-section .container,.banner-5 .container {
+    max-width: 960px;
+	}
+	.banner-content-5 .title {
+    font-size: 35px;
+    line-height: 50px;
+	}
+	.banner-search-form button.btn-1 {
+    padding: 0 20px;
+	}
+	.banner-search-form button {
+    position: absolute;
+    right: 30%;
+  }
+	.dropshipping-main .drop-sbg {
+	    top: -1px;
+	}
+	.convence-feature.padding-bottom.bg_img.pb-xl-0 {
+    margin-bottom: 50px;
+    padding-bottom: 0;
+	}
+	.convence-feature > img {
+    bottom: 0;
+}
+.feature-section.padding-bottom-2{
+	padding-bottom: 0;
+}
+	.feature--thumb.style-two .owl-item .main-thumb img {
+	    width: 100%!important;
+	}
+	.feature-item .feature-content .title {
+    font-size: 15px;
+}
+	.dropshipping-main .drop-header h4 {
+    font-size: 30px;
+	}
+	.dropshipping-main {
+    padding: 100px 0 0;
+	}
+
+	.service-area-item span {
+    display: inline-block;
+    font-size: 15px;
+}
+	.service-area-item a {
+    padding: 5px 0;
+	}
+	.section-header.mw-100 h2 {
+    text-align: left;
+	}
+	.profit-calculator .offset-2.col-lg-5.col-md-6 {
+	  padding: 0px;
+	  flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+	}
+	.profit-calculator-main {
+    padding: 180px 0 200px;
+    background-size: 100%;
+}
+
+	.price-another {
+    width: 18.5%;
+  }
+
+  .monthly-profit {
+    padding: 20px 0;
+  }
+  .optional-feature-main .col-lg-3 {
+    padding: 10px;
+	}
+
+	.faq-section .mt-70.mt-lg-0 h4 {
+    margin: 0px;
+	}
+	.faq--item .faq-title .title {
+    font-size: 18px;
+	}
+	.faq--wrapper .main-title {
+    font-size: 25px;
+}
+
+
+	.container.faq-section{	
+
+    max-width: inherit;
+		background: url(../site/help.webp) no-repeat;
+	   background-size: 20%;
+	   top: 5px;
+	   background-position: left top;
+	}
+
+	.contact-section-main {
+	    margin-top: 105px;
+	}
+
+
+}
+
+@media(max-width: 1024px){
+	.faq--wrapper .main-title {
+	    font-size: 22px;
+	}
+	.feature-item .feature-content .title {
+    font-size: 15px;
+	}
+@media(min-width: 992px){
+	
+}
+
+
+
+@media(max-width: 991px){
+	.banner-content-5 .title {
+    margin-top: 0;
+    width: 55%;
+	}
+	.banner-5 {
+    background: #ffffff;
+    padding: 140px 0 60px;
+	}
+
+	.service-image img {
+	    padding: 10px 40px 20px;
+	    width: 100%;
+	    height: 275px;
+	}
+	.dropshipping-main {
+	    padding: 100px 0 25px;
+	}
+
+	
+	.associate-area {
+	    text-align: center;
+	    margin-top: 100px;
+	}
+	.convence-feature .adv-4 {
+    width: 100%;
+    margin-top: 70px;
+	}
+	.section-header.mw-100 h2 {
+    text-align: left;
+    font-size: 30px;
+	}
+	.convence-feature > img {
+    bottom: 10%;
+	}
+	.padding-bottom {
+    padding-bottom: 50px;
+	}
+	.convence-feature.padding-bottom.bg_img.pb-xl-0 h5 {
+    margin-top: 20px;
+	}
+	.dropshipping-main .drop-sbg {
+    top: -1px;
+	}
+	.service-area-item i {
+    display: none;
+}
+
+	.dropshipping-main .container .col-lg-3.col-md-6 {
+    padding-right: 15px;
+    padding-left: 15px;
+	}
+	.faq-section .mt-70.mt-lg-0 img {
+	    position: absolute;
+	    top: 3%;
+	    right: 5%;
+	}
+
+	.service-area-item span {
+    display: inline-block;
+    font-size: 20px;
+	}
+	.service-area-item a {
+    padding: 10px 0;
+	}
+
+
+	.feature--thumb.style-two .owl-item .main-thumb img {
+    width: 100%!important;
+    height: 500px;
+	}
+	.feature-item {
+    padding: 15px;
+  }
+	.feature-item .feature-content .title {
+    font-size: 13px;
+  }
+
+
+	.offset-2 {
+    margin-left: 0;
+	}
+	.profit-calculator-main {
+    background-size: cover;
+    padding: 0;
+	}
+	.profit-calculator {
+    padding: 70px 0 210px;
+	}
+	.profit-calculator h4 {
+    margin-top: 100px;
+	}
+  .price-another {
+    width: 18.5%;
+    font-size: 14px;
+	}
+	.profit-calculator .offset-2.col-lg-5.col-md-6  {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+  .monthly-profit {
+    margin-top: 170px;
+	}
+	.monthly-profit p span {
+    font-size: 13px;
+	}
+
+
+	.team-section .col-lg-4 {
+    max-width: inherit;
+    flex: inherit;
+	}
+	.team-section .col-lg-4.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+	}
+	.team-section .team-item .team-content .title {
+    font-size: 20px!important;
+	}
+
+
+	.pricing-inner-img {
+	    margin-left: 25px;
+	}
+	.pricing-table-main select {
+    width: 13%;
+  }
+	.pricing-after a.drop {
+    font-size: 14px;
+  }
+	.pricing-item-main-2 img.rocket {
+    top: 4%;
+	}
+	.pricing-item-main-2.another-2 a.help-link {
+	    top: 17.5%;
+	}
+	.pricing-item-main-2 ul li {
+    font-size: 11px;
+	}
+
+	.pricing-item-main-2.another-2 a {
+    width: 53%;
+}
+  .pricing-item-main-2.another-4 a {
+    width: 80%;
+	}
+	.pricing-item-main-2.another-2 img {
+    margin-left: 15px;
+    width: 50%;
+	}	
+
+	.optional-top-bg select {
+    width: 11%;
+  }
+  .optional-feature-main h2 {
+    font-size: 45px;
+	}
+
+	.optional-feature-item span {
+    font-size: 16px;
+  }
+  .optional-feature-item.optional-feature-item-2 span {
+    font-size: 17px;
+}
+  .optional-feature-main .col-lg-3 {
+    padding: 10px;
+	}
+	.optional-feature-item p, .optional-feature-item p span {
+    font-size: 20px;
+  }
+  .optional-feature-main {
+    padding-bottom: 0px;
+  }
+
+	.faq-section {
+	    background-size: 30%;
+	}
+	.faq-section .contact-section-main img {
+    width: 90%;
+	}
+  .contact-section-main form {
+    width: 100%;
+    margin: 0;
+	}
+  .contact-section-main h4 {
+    margin: 0;
+    margin-top: 240px;
+    margin-bottom: 10px;
+}
+
+  .contact-section-main {
+    background-size: 60%;
+    background-position: left 2%;
+    padding: 0;
+	}
+	.container.faq-section {
+    background-size: 30%;
+    background-position: left 2%;
+}
+
+	.faq--wrapper .main-title {
+	  font-size: 25px;
+	}
+	.faq-section .mt-70.mt-lg-0 h4 {
+    width: 75%;
+	}	
+	.faq--item .faq-title .title {
+    font-size: 15px;
+	}
+
+
+
+
+
+
+}
+
+
+@media(max-width: 767px){
+
+	.banner-content-5 .title {
+    font-size: 40px;
+    margin-top: 0;
+    line-height: 1.5;
+	}
+	.convence-feature > img {
+    position: absolute;
+    right: 5%;
+    bottom: 50%;
+	}
+	.convence-feature.padding-bottom.bg_img.pb-xl-0 {
+    margin-bottom: 0px;
+	}
+
+	.dropshipping-main {
+    padding: 120px 0 30px;
+	}
+	.service-image img {
+    padding: 10px 40px 20px;
+    width: 50%;
+    height: auto;
+	}
+	.dropshipping-main .container .col-lg-3.col-md-6 {
+    padding-right: 10px;
+    padding-left: 10px;
+	}
+
+
+	.feature--thumb.style-two .owl-item .main-thumb img {
+    width: 100%;
+    height: auto;
+	}
+	.section-header.mw-100 h2 {
+    text-align: left;
+	}
+	.offset-2 {
+    margin-left: 0;
+	}
+	.profit-calculator {
+    color: #fff;
+    padding: 60px 0 240px;
+	}
+	.profit-calculator .offset-2.col-lg-5.col-md-6 {
+    padding: 0px;
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+.profit-range{
+	padding-top: 65px;
+}
+.monthly-profit {
+    margin-top: 20px;
+}
+	.profit-calculator-main {
+    background-size: cover;
+    padding: 0;
+	}
+	.profit-calculator h4 {
+    margin-top: 100px;
+    margin-left: 10px;
+	}
+	.monthly-profit p span {
+    margin-top: 12px;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #484848;
+}
+
+	.team-section .col-lg-4 {
+	    max-width: unset;
+	    flex: unset;
+	}
+
+	.team-section .team-item .team-content .title {
+    font-size: 25px!important;
+    margin-top: 20px;
+	}
+
+
+	.monthly-profit select {
+    width: 20%;
+  }
+
+  .pricing-table-main select {
+    width: 15%;
+  }
+
+  .pricing-after a.drop {
+    width: 40%;
+	}
+	.pricing-item-main-2 img.rocket {
+    left: 70%;
+    top: 0;
+    transform: inherit;
+	}
+	.pricing-item-main-bg img.rocket-flush {
+    bottom: 10px;
+    left: 76%;
+	}
+	.pricing-item-main p.pr {
+    font-size: 14px;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 30px;
+	}
+	.pricing-item-main-2 h6 {
+    margin-left: 30px;
+	}
+	.pricing-item-main a {
+    width: 25%;
+  }
+  .pricing-item-main-2.another-2 a {
+    width: 20%;
+    left: 0;
+  }
+  .pricing-item-main-2.another-2 a.help-link {
+    top: 21.5%;
+    left: 0%;
+	}
+	.pricing-table-main {
+    padding-bottom: 70px;
+	}
+
+  .optional-feature-main .col-lg-3 {
+    padding: 10px;
+	}
+	.optional-feature-main {
+    padding-bottom: 0px;
+    margin-top: 130px;
+  }
+
+  .optional-feature-item.optional-feature-item-2 span {
+    margin-top: 5px;
+    font-size: 15px;
+	}
+
+	.contact-section-main {
+	    margin-top: 190px;
+	}
+	.contact-section-main h4 {
+    font-size: 30px;
+	}
+	.contact-section-main form p {
+    margin-top: 10px;
+	}
+	.padding-top {
+   padding-top: 30px;
+	}
+	.container.faq-section {
+    background-size: 30%;
+    background-position: center 0;
+	}
+
+}
+
+
+@media(max-width: 575px){
+	.padding-bottom {
+    padding-bottom: 50px;
+	}
+	.header-section .header-wrapper .logo .logo-text h2 {
+	  display: none;
+	}
+	.header-section .header-wrapper .logo {
+    width: 50%;
+	}
+	.banner-5 {
+	    padding: 130px 0 50px;
+	}
+	.banner-content-5 .title {
+    width: 100%;
+  }
+
+	.banner-search-form button {
+		position: unset;
+		height: 45px;
+    padding: 0px 20px;
+    right: 20%;
+	}
+    
+	.banner-search-form button.btn-1 {
+	    padding: 0 10px;
+	    height: 40px;
+	    font-size: 12px;
+	}
+
+
+
+	.associate-area p{
+		margin-bottom: 0;
+	}
+	.associate-area img {
+    width: 35%;
+    vertical-align: baseline;
+    margin-right: 20px;
+    margin-top: 12px;
+	}
+	
+
+
+
+/* Dropshipping */
+	.convence-feature img{
+		width: inherit;
+	}
+	.section-header {
+    margin-bottom: 0px;
+    text-align: center;
+	}
+	.convence-feature.padding-bottom.bg_img.pb-xl-0 h5 {
+    text-align: center!important;
+	}
+	.section-header.mw-100 h2 {
+	    font-size: 25px;
+	}
+	.section-header p {
+    width: 100%;
+	}
+
+
+
+
+	/* Service area */
+	.dropshipping-main {
+    background: url(../site/client-bg.webp) no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 100px;
+    padding: 65px 0px 25px;
+	}
+	.service-area-item span {
+	    display: inline-block;
+	    font-size: 15px;
+	}
+	.service-area-item i {
+    display: none;
+  }
+  .section-header.mw-100 h2 {
+    text-align: center;
+	}
+	
+
+
+
+
+  /* Feature item */
+  .feature--thumb.style-two .owl-item .main-thumb img {
+    height: auto;
+	}
+  .feature-item .feature-thumb {
+    margin: 0 auto;
+	}
+	.feature-item .feature-content {
+    text-align: center;
+	}
+	.feature-item .feature-content .title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+	}
+
+
+
+
+  
+  /*Profit calculator */
+  .profit-calculator .offset-2.col-lg-5.col-md-6 {
+    padding: 0 30px;
+    max-width: 100%;
+    flex: 0 0 100%;
+	}
+  .offset-2 {
+    margin-left: 0%;
+	}
+	.monthly-profit {
+    margin-top: 25px;
+	}
+	.profit-calculator h4 {
+    margin-top: 150px;
+	}
+  .price-another {
+    width: 18.5%;
+    font-size: 14px;
+	}
+  .profit-calculator-main {
+    background-size: cover;
+    padding: 40px 0!important;
+}
+	.monthly-profit p {
+    font-size: 25px;
+	}
+	.monthly-profit p span {
+    font-size: 13px;
+	}
+
+	.monthly-profit a {
+    border-radius: 15px;
+    width: 50%;
+  }
+
+
+
+  /*Store section */
+  .team-section .col-lg-4 {
+    max-width: inherit!important;
+    flex: inherit!important;
+	}
+	.team-section .section-header .title {
+    text-align: center;
+    font-size: 35px;
+}
+	.team-section .team-item .team-content .title {
+	    font-size: 20px!important;
+	}
+	.service-image img {
+    padding: 20px;
+    width: 40%;
+}
+
+
+
+  /* Pricing section */
+  .pricing-after a.drop {
+    width: 70%;
+    font-size: 14px;
+	}
+	.pricing-item-main a {
+    padding: 5px 0px;
+    width: 55%;
+    margin: 0 auto;
+	}
+	.pricing-item-main p.pr {
+    margin-left: 0%;
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+	}
+  .pricing-table-main h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 25px;
+	}
+	.pricing-item-main p.t99 {
+    margin-top: 0px;
+    margin-left: 0;
+    width: 100%;
+    text-align: center;
+}
+	.pricing-inner-img {
+	    margin-left: 0px;
+	    margin-bottom: 15px;
+	    text-align: center;
+	}
+	.pricing-table-main p {
+    font-size: 11px;
+    line-height: 1.5;
+	}
+	.pricing-table-main select {
+    width: 25%;
+    font-size: 15px;
+  }
+  .pricing-item-main-2 h6 {
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 0;
+	}
+	.pricing-item-main-2.another-2 img {
+	    width: 50%;
+	}
+	.pricing-item-main-2 img.rocket,.pricing-item-main-bg img.rocket-flush {
+    display: none;
+  }
+	.link-bottom {
+	    margin-left: 23%;
+	    padding: 3px 30px;
+	}
+
+
+	.pricing-item-main-2.another-2 a {
+    width: 35%;
+    top: 11%;
+    left: -30px;
+	}
+	.pricing-item-main-2.another-2 a.help-link {
+    top: 20.5%;
+    left: -5%;
+	}
+
+
+
+
+  /*OPtional feature */
+  .optional-feature-main .col-lg-3 {
+    padding: 10px;
+	}
+	.optional-feature-main h2 {
+	    margin-top: 0px;
+	    font-size: 22px;
+	}
+	.optional-top-bg select {
+    width: 25%;
+    font-size: 15px;
+	}
+
+
+	.optional-feature-main {
+    margin-top: 140px;
+	}
+
+
+
+/* Contact section */
+	.contact-section-main h4 {
+    width: 100%;
+    margin: 0;
+    margin-top: 50%;
+    margin-bottom: 15px;
+}
+	.contact-section-main form p {
+	    font-size: 20px;
+	    padding-top: 10px;
+	}
+	.contact-section-main form {
+    width: 100%;
+    margin: 0;
+	}
+	.contact-section-main form .form-main label {
+    margin-bottom: 0;
+	}
+	.contact-section-main {
+    margin-top: 180px;
+    padding-left: 0%;
+	}
+
+
+	/* Faq section */
+	.container.faq-section {
+    max-width: inherit;
+    background: url(../site/help.webp) no-repeat;
+    background-size: 55%;
+    top: 0;
+    background-position: center 0%;
+	}
+	.faq--item {
+    margin-bottom: 10px;
+	}
+	.faq-section {
+    background-size: 50%;
+    background-position-x: center;
+	}
+	.faq--item .faq-title .title,.faq-content p {
+    font-size: 13px;
+    line-height: 1.5;
+	}
+	.faq--wrapper .main-title {
+    font-size: 22px;
+    margin-bottom: 0;
+	}
+	.faq-section .mt-70.mt-lg-0 h4 {
+    width: 90%;
+    font-size: 20px;
+}
+	.faq-section .mt-70.mt-lg-0 img {
+    position: absolute;
+    top: 5%;
+	}
+	.faq-section .mt-70.mt-lg-0 img {
+    margin-bottom: 5px;
+    width: 40px;
+	}
+	.faq--item .faq-title .icon {
+    right: 15px;
+    top: 15px;
+    width: 5px;
+    height: 5px;
+	}
+
+
+	/*Footer */
+	.footer-top h5 {
+    font-size: 14px;
+	}
+	.footer-link li {
+    padding: 5px 17px;
+    position: relative;
+	}
+	.footer-link li a {
+    font-size: 12px;
+	}
+}
+@media(max-width: 375px){
+	.convence-feature img {
+    width: inherit;
+	}
+	.pricing-item-main-2.another-2 a {
+    width: 38%;
+	}
+	.pricing-item-main-2.another-2 a.help-link {
+    left: -9%;
+	}
+}
+
+@media(max-width: 320px){
+
+	.padding-bottom {
+    padding-bottom: 50px;
+	}
+	.header-section .header-wrapper .logo .logo-text h2 {
+	  display: none;
+	}
+	.header-section .header-wrapper .logo {
+    width: 50%;
+	}
+	.banner-5 {
+	    padding: 130px 0 50px;
+	}
+	.banner-content-5 .title {
+    font-size: 30px;
+    margin-top: 0;
+    line-height: 1.3;
+	}
+	.banner-search-form button {
+		position: unset;
+		height: 45px;
+    padding: 0px 20px;
+	}
+    
+	.banner-search-form button.btn-1 {
+	    padding: 0 10px;
+	    height: 40px;
+	    font-size: 12px;
+	}
+
+
+
+	.associate-area p{
+		margin-bottom: 0;
+	}
+	.associate-area img {
+    width: 35%;
+    vertical-align: baseline;
+    margin-right: 20px;
+    margin-top: 12px;
+	}
+	
+
+
+
+/* Dropshipping */
+	.convence-feature img {
+    width: inherit;
+}
+	.section-header {
+    margin-bottom: 0px;
+    text-align: center;
+	}
+	.convence-feature.padding-bottom.bg_img.pb-xl-0 h5 {
+    text-align: center!important;
+	}
+	.section-header.mw-100 h2 {
+	    font-size: 25px;
+	    font-size: 23px;
+	}
+	.section-header p {
+    width: 100%;
+	}
+
+
+
+
+	/* Service area */
+	.dropshipping-main {
+    background: url(../site/client-bg.webp) no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 100px;
+    padding: 65px 0px 25px;
+	}
+	.service-area-item span {
+	    display: inline-block;
+	    font-size: 15px;
+	}
+	.service-area-item i {
+    display: none;
+  }
+
+	.dropshipping-main .drop-sbg {
+    top: 0px;
+	}
+	.dropshipping-main .drop-header h4 {
+    font-size: 25px;
+	}
+
+
+
+
+  /* Feature item */
+  .feature--thumb.style-two .owl-item .main-thumb img {
+    height: auto;
+	}
+  .feature-item .feature-thumb {
+    margin: 0 auto;
+	}
+	.feature-item .feature-content {
+    text-align: center;
+	}
+	.feature-item .feature-content .title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+	}
+
+
+
+
+  
+  /*Profit calculator */
+  .offset-2 {
+    margin-left: 0%;
+	}
+	.monthly-profit {
+    margin-top: 25px;
+	}
+  .price-another {
+    width: 18%;
+    font-size: 14px;
+	}
+  .profit-calculator-main {
+    background-size: cover;
+    padding: 40px 0!important;
+	}
+	.monthly-profit p {
+    font-size: 25px;
+	}
+	.monthly-profit p span {
+    font-size: 13px;
+	}
+	.profit-calculator .offset-2.col-lg-5.col-md-6 {
+    padding: 0 30px;
+    max-width: 100%;
+    flex: 0 0 100%;
+	}
+
+
+
+
+  /*Store section */
+  .team-section .col-lg-4 {
+    max-width: inherit!important;
+    flex: inherit!important;
+	}
+	.team-section .section-header .title {
+    text-align: center;
+    font-size: 25px;
+	}
+	.team-section .team-item .team-content .title {
+	    font-size: 20px!important;
+	}
+
+
+
+  /* Pricing section */
+  .pricing-after a.drop {
+    width: 70%;
+    font-size: 14px;
+	}
+	.pricing-item-main a {
+    padding: 5px 0px;
+    width: 55%;
+    margin: 0 auto;
+	}
+	.pricing-item-main p.pr {
+    margin-left: 0%;
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+	}
+  .pricing-table-main h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 25px;
+	}
+	.pricing-item-main p.t99 {
+    margin-top: 0px;
+    margin-left: 0;
+    width: 100%;
+    text-align: center;
+}
+	.pricing-inner-img {
+	    margin-left: 0px;
+	    margin-bottom: 15px;
+	    text-align: center;
+	}
+	.pricing-table-main p {
+    font-size: 11px;
+    line-height: 1.5;
+	}
+	.pricing-table-main select {
+    width: 25%;
+    font-size: 15px;
+  }
+  .pricing-item-main-2 h6 {
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 0;
+	}
+	.pricing-item-main-2.another-2 a {
+    width: 45%;
+	}
+	.pricing-item-main-2.another-2 img {
+	    width: 50%;
+	}
+	.pricing-item-main-2 img.rocket,.pricing-item-main-bg img.rocket-flush {
+    display: none;
+  }
+	.link-bottom {
+	    margin-left: 23%;
+	    padding: 3px 30px;
+	}
+
+
+
+  /*OPtional feature */
+  .optional-feature-main .col-lg-3 {
+    padding: 10px;
+	}
+	.optional-feature-main h2 {
+	    margin-top: 0px;
+	    font-size: 22px;
+	}
+	.optional-top-bg select {
+    width: 25%;
+    font-size: 15px;
+	}
+
+
+
+/* Contact section */
+.container.faq-section {
+    background-size: 65%;
+}
+  .contact-section-main {
+    background-size: 100%;
+    background-position: left 0%;
+}
+	.contact-section-main h4 {
+    width: 100%;
+    margin: 0;
+    margin-top: 130px;
+     margin-bottom: 15px;
+}
+	.contact-section-main form p {
+	    font-size: 20px;
+	    padding-top: 10px;
+	}
+	.contact-section-main form {
+    width: 100%;
+    margin: 0;
+	}
+	.contact-section-main form .form-main label {
+    margin-bottom: 0;
+	}
+
+
+	/* Faq section */
+	.faq--item {
+    margin-bottom: 10px;
+	}
+	.faq--item .faq-title .title,.faq-content p {
+    font-size: 13px;
+    line-height: 1.5;
+	}
+.faq--wrapper .main-title {
+    font-size: 17px;
+    margin-bottom: 0;
+}
+	.faq-section .mt-70.mt-lg-0 h4 {
+    width: 80%;
+    font-size: 20px;
+	}
+	.faq-section .mt-70.mt-lg-0 img {
+    margin-bottom: 5px;
+    width: 40px;
+	}
+	.faq--item .faq-title .icon {
+    right: 15px;
+    top: 15px;
+    width: 5px;
+    height: 5px;
+	}
+
+
+	/*Footer */
+	.footer-top h5 {
+    font-size: 14px;
+	}
+
+}
